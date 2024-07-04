@@ -10,6 +10,7 @@ Model training and evaluation
 Datasets
 The dataset used for this project is publicly available on Kaggle: Real or Fake Job Posting Prediction.
 Project Structure
+
 real-or-fake-job-post-detection/
 │
 ├── data/
